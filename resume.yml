@@ -492,7 +492,7 @@ icon.large {
 	<div class="container" id="resume">
 			<div id="card" class="row">
 				<div class="col-xs-3 col-sm-4">
-					<img class="avatar" src="/Users/troyleak/Documents/Resumes/profile_pic.png"/>
+					<img class="avatar" src="profile_pic.png"/>
 				</div>
 				<div class="col-xs-9 col-sm-8">
 					<h1>Troy Leak</h1>
