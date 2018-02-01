@@ -55,6 +55,12 @@ h2.section-title {
 	margin-top:2.5em;
 }
 
+.container {
+  margin: 0 auto;
+  max-width: 866px;
+  width: 90%;
+}
+
 .avatar {
 	border-radius: 50%;
 	max-width:260px;
@@ -202,11 +208,11 @@ icon.large {
     font-size: 2em;
     color: #fff;
     background: #939393;
-    padding: 10px 39px 10px 11px;
+    padding: 10px 10px 10px 11px;
     border-radius:60px;
     margin-top: 0px;
     display:block;
-    width:50px;
+    width:33px;
 }
 
 @media screen and (max-width: 1024px) and (min-width: 768px) {
